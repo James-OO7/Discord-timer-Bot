@@ -9,8 +9,8 @@ Min = 0
 MinReq = 0
 SeqReq = 0
 
-TOKEN = "NzAyMTYzNTg3Mjk2Mzk1MzY2.XqcbDg.MfOcE_Pqt7_frK8H5eYfb_4oRaU"
-GUILD = "Galloway Coding Class"
+TOKEN = "Your Discord Server Token Here"
+GUILD = "Your Server Name Here"
 
 bot = commands.Bot(command_prefix = '!')
 
